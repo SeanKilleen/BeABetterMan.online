@@ -2,182 +2,146 @@
 
 A web site dedicated to helping men me better online by speaking as men to educate them.
 
-Using the `gatsby-starter-gcn` template, which can be found below.
+Using the `thriveweb/yellowcake` template, README of which can be found below.
 
 _____
 
 
-# gatsby-starter-gcn
+# Yellowcake
 
-A starter template to build amazing static websites with Gatsby, Contentful and Netlify. Inspired by [gatsby-contentful-starter](https://github.com/contentful-userland/gatsby-contentful-starter).
+[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![dependencies](https://david-dm.org/jinksi/netlify-cms-react-starter.svg?style=flat-square)](https://david-dm.org/jinksi/gatsbro)
 
-## Features
+An opinionated starter project for creating lightning-fast websites with [Gatsby](https://gatsbyjs.org) v2 and [Netlify CMS](https://netlifycms.org) v2.
 
-- Contentful integration with ready to go placeholder content
-- Netlify integration including a pre-built contact form
-- Minimal responsive design - made to customize or tear apart
-- Pagination logic
-- Styled components
-- SEO Friendly Component
-  - JSON-LD Schema
-  - OpenGraph sharing support
-  - Sitemap Generation
-- Google Analytics
-- Progressive Web app
-- Offline Support
-- RSS Feed
-- [Gatsby Standard module](https://www.npmjs.com/package/eslint-config-gatsby-standard) for linting Javascript with StandardJS
-- Stylelint support for Styled Components to lint the CSS in JS
+- **[Gatsby](https://gatsbyjs.org)** static site generator
+- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
 
-## Demo
+## See also
 
-https://gcn.netlify.com/
+[Netlify CMS Docs](https://www.netlifycms.org/docs/)  
+[Netlify CMS Repo](https://github.com/netlify/netlify-cms)
 
-![](screenshots/demo.jpg)
+## Get going
 
-## Getting Started
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
 
-### Install
+1.  Hit the **Deploy to Netlify** button. This will:
 
-```
-git clone https://github.com/ryanwiemer/gatsby-starter-gcn.git
-npm i
-```
+- Clone the repo into your Github account
+- Create you a new project on Netlify, build & deploy
 
-Or via the [Gatsby CLI](https://www.npmjs.com/package/gatsby-cli)
+1.  Once your Netlify project has been created, check a couple of settings:
 
-```
-gatsby new gatsby-starter-gcn https://github.com/ryanwiemer/gatsby-starter-gcn.git
-```
+- Enable **Identity**
+- Change **Registration Preferences** to **Invite Only**
+- Enable **Git Gateway**
 
-### Setup Contentful
+1.  Invite users (probably yourself) to enable admin access
 
-1.  [Sign up](https://www.contentful.com/sign-up/) for Contentful and create a new empty space
+- Open the **Identity** tab and hit **Invite Users**
 
-2.  `npm run setup`
+## Show me the CMS!
 
-3.  Enter in the requested info for your Contentful space found here: **app.contentful.com** → **Space Settings** → **API keys**. You will need to provide both a standard API key (first tab) and a management key (second tab).
+The CMS lives at [\_\_YOUR_SITE_NAME\_\_.netlify.com/admin](https://__YOUR_SITE_NAME__.netlify.com/admin).
 
-## Customization
+## Developing
 
-### Website Data
+1.  Clone your repo to your local machine
 
-Edit [`/src/utils/siteConfig.js`](https://github.com/ryanwiemer/gatsby-starter-gcn/blob/master/src/utils/siteConfig.js)
+1.  Install dependencies
 
-```js
-module.exports = {
-  siteTitle: 'GCN',
-  siteTitleAlt: 'GCN Gatsby Starter',
-  publisher: 'Publisher named GCN',
-  siteDescription:
-    'A starter template to build amazing static websites with Gatsby, Contentful and Netlify',
-  siteUrl: 'https://gcn.netlify.com',
-  postsPerHomePage: 7,
-  postsPerPage: 6,
-  author: 'GCN User',
-  authorUrl: 'https://gcn.netlify.com/about/',
-  userTwitter: '@twitter',
-  shortTitle: 'GCN App',
-  shareImage: '/logos/share.jpg',
-  shareImageWidth: 900,
-  shareImageHeight: 600,
-  siteLogo: '/logos/logo-512.png',
-  backgroundColor: '#e9e9e9',
-  themeColor: '#121212',
-  copyright: 'Copyright © 2018 GCN User',
-}
-```
+`yarn` or `npm install`
 
-**Note:** If you do not see your changes reflected when developing locally you may need to run `npm run clean` and restart the development server.
+1.  Run the development server
 
-### Theme
+`yarn start` or `npm run start`
 
-Edit [`/src/styles/theme.js`](https://github.com/ryanwiemer/gatsby-starter-gcn/blob/master/src/styles/theme.js)
+If you are adding or editing content locally in the CMS, a couple of things to note:
 
-```js
-const theme = {
-  colors: {
-    base: '#121212',
-    secondary: '#e9e9e9',
-    tertiary: '#f3f3f3',
-    highlight: '#5b8bf7',
-  },
-  sizes: {
-    maxWidth: '1200px',
-    maxWidthCentered: '650px',
-  },
-  responsive: {
-    small: '35em',
-    medium: '50em',
-    large: '70em',
-  },
-}
-```
+1.  Changes will be pushed to the remote repo.
 
-### Using Gatsby Standard
+1.  You will be prompted to enter your site's url, this is necessary for Netlify Identity to manage user login. This is stored in `localStorage`, so you might have to empty your browser cache if you are switching projects but remaining on `localhost:8000`.
 
-1.  Quickly check your code for errors with the `npm test` script
-2.  You can view the [Gatsby Standard README](https://github.com/brandonkal/eslint-config-gatsby-standard) for details on how to integrate this project's included Gatsby Standard, Stylelint, and Prettier modules into your text editor
+## Editing CMS fields
 
-### Content and SEO
+The Netlify CMS configuration is located in `public/admin/config.yml`. This is where you will configure the pages, fields, posts and settings that are editable by the CMS.
 
-1.  You can replace the `share.jpg` and `logo-512` files in the `static/logos` directory. After replacing these files ensure that you edit the image size dimensions specified in `/src/utils/siteConfig.js`
-2.  Meta descriptions are defined in Contentful. If you choose to leave this field blank on new posts a 320 character excerpt of the post/page will be used.
-3.  **IMPORTANT:** Be sure to manually enter at least one meta description on a page and post in Contentful or the site will fail to build.
+Find out more in the [Netlify CMS Docs](https://www.netlifycms.org/docs/#configuration).
 
-## Deployment
+## Uploadcare setup
 
-### Manual Netlify Deployment
+Uploadcare is our file upload system. It hosts the files for us and delivers them trough their CDN network.
+Each site you'll create need its own Uploadcare API key's. See below how to set this up
 
-1.  Run `gatsby build`
+1. Create new project in Uploadcare and save API keys in project
 
-2.  Drag and drop the folder `/public/` into Netlify
+- Go to [Uploadcare.com](https://uploadcare.com/accounts/login/) and login
+- Once on the dashboard create a new project
+- Set the name and hit create
+- In the left menu click in API Keys and copy the public key
+- Now open your project and open the CMS congif.yml file
+- find the `media_library` settings and paste in the public key after `publicKey:`
+- Done!!
 
-### Netlify Deployment From Git (Recommended)
+For more details see the [Netlify CMS Docs](https://www.netlifycms.org/docs/uploadcare/)
 
-1.  [New Netlify website from Git](https://app.netlify.com/start)
+## Scheduled content
 
-2.  Connect with GitHub and select your repo
+Scheduled content allows you to schedule posts. Set the date / order field in a post to the feature.
+For the scheduled content to appear on the website we need to deploy our website daily.
 
-3.  Navigate to Netlify: **Settings** → **Build & Deploy** → **Build Environment Variables**. Add the following environment variables using the Space ID and Content Delivery API - access token from Contentful. Additionally if desired you can enter a Google Analytics ID. The variables must be named exactly like this in order to work properly.
+1. Setup a Netlify build hook
 
-```
-ACCESS_TOKEN
-SPACE_ID
-GOOGLE_ANALYTICS
-```
+- Go to https://app.netlify.com/sites/_YOUR_SITE_NAME/setings/deploys/#build-hooks
+- Hit build hook button in the build hooks section
+- Give it a name for example: "Automatic deploy Zapier"
+- Select branch, in most cases master will do.
+- Hit save and copy the generated url
 
-![](screenshots/netlify-build-environment-variables.jpg)
+2. Zapier Setup
 
-4.  Navigate to Netlify: **Deploys**. Click `Trigger deploy` to manually trigger a deploy to confirm the website is building successfully using your build environment variables. At this point be aware that every time you push to `master` a deploy will automatically start and be published to production.
+- Go to [Zapier.com](https://zapier.com/) and login
+- Hit make a zap button in the right top corner
+- Search for Schedule in the search bar and select "Schedule by Zapier"
+- Check every day and hit continue
+- Select a time and make sure trigger on weekends is turned on
+- Double check your settings and hit continue
+- On the left hit add a step - and search for webhook by Zapier
+- Select post as action and continue
+- Past in the url of our recently generated webhook in the url field
+- Make sure "Payload Type" is set to form and hit continue
+- check settings and hit the test button
+- Check your Netlify site if there has been triggered a new deploy
+- If that worked hit finish
+- Give your zap a name, example: "Automatic deploy Yellowcake" and make sure your zap is turned on
 
-## Additional Settings
+That's it, you'r now ready to use scheduled content!!
 
-### Contentful Webhook (Optional)
+## Mailchimp integration
 
-1.  Navigate to Netlify:
-    **Settings** → **Build & Deploy** → **Build hooks**.
-    Create a new build hook.
+https://hooks.zapier.com/hooks/catch/2881617/ea5exg/
 
-2.  Navigate to Contentful:
-    **app.contentful.com** → **Space Settings** → **Webhooks**. Create a webhook using the Netlify build URL that you just created
-    and configure which events should trigger the build on production. For example the following will rebuild the production website every time a post or page is published, unpublished or deleted:
-
-![](screenshots/contentful-webhook-selected-events.jpg)
-
-### Netlify Form Notifications (Optional)
-
-1.  Navigate to Netlify:
-    **Forms** → **Notifications**
-
-2.  Click the add notification dropdown and select your desired notification method.
-
-![](screenshots/netlify-form-notifcations.jpg)
-
-## Useful Tips
-
-- If you make edits to your Contentful space while running `gatsby develop` you will need to stop it and rerun the command to see the changes reflected. For example a new post or page will not automatically show up until the website has been rebuilt.
-- The template assumes you have at least **one page**, **one post** and **one tag** in Contentful. If you do not the website will fail to build.
-- The SEO component assumes you have entered at least one meta description in Contentful for a post and one for a page. If you do not the website will fail to build. See the Content and SEO section above.
-- **DO NOT** store your Contentful access tokens or space ids anywhere in GitHub. Treat them like passwords.
-- **Yarn Users:** remove the `yarn*` line from the `.gitignore` file to avoid discrepancies in the Netlify deploy.
+- Go to [Zapier.com](https://zapier.com/) and login
+- Hit make a zap button in the right top corner
+- Search for webhook by Zapier and select catch hook and continue to next step
+- In most cases leave this field empty and continue
+- Copy the generated url
+- Now go to the [form settings](https://app.netlify.com/sites/yellowcake/settings/forms#outgoing-notifications) in you Netlify project
+- Find the form notifications section click the add notification button
+- Select the option `outgoing webhook`
+- Set the event to listen for
+- Paste in our recent generated url in the URL to notify field
+- Select your form and save settings
+- Open your website navigate to your form, fill it out and send the data
+- Go back to Zaper and see if your form data has come trough.
+- Hit continue and add a new step on the left side of the screen
+- Search for MailChimp and select add/update subscriber
+- Select MailChimp account or add one and hit the test button
+- if succeeded hit continue button
+- Select your MailChimp list and select the subscriber email address
+- Fill in other settings for your needs and continue
+- Hit send test to MailChimp button and hit finish if succeeded
+- Give your Zap a name and make sure your zap is turned on
+- Submit your form one last time and see if all data is coming trough to MailChimp
+- Thats is!

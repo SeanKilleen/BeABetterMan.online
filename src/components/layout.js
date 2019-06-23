@@ -1,35 +1,88 @@
-import React from 'react'
-import { ThemeProvider } from 'styled-components'
+import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
-import favicon from '../images/favicon.ico'
-import GlobalStyle from '../styles/global'
-import theme from '../styles/theme'
-import config from '../utils/siteConfig'
-import Menu from '../components/Menu'
-import Footer from '../components/Footer'
+import { StaticQuery, graphql } from 'gatsby'
+import Meta from './Meta'
+import Nav from './Nav'
+import Footer from './Footer'
+import GithubCorner from './GithubCorner'
 
-const Template = ({ children }) => {
+import 'modern-normalize/modern-normalize.css'
+import './globalStyles.css'
+
+export default ({ children, meta, title }) => {
   return (
-    <div className="siteRoot">
-      <Helmet>
-        <title>{config.siteTitle}</title>
-        <meta charSet="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href={favicon} />
-      </Helmet>
+    <StaticQuery
+      query={graphql`
+        query IndexLayoutQuery {
+          settingsYaml {
+            siteTitle
+            siteDescription
+            googleTrackingId
+            socialMediaCard {
+              image
+            }
+          }
+          allPosts: allMarkdownRemark(
+            filter: { fields: { contentType: { eq: "postCategories" } } }
+            sort: { order: DESC, fields: [frontmatter___date] }
+          ) {
+            edges {
+              node {
+                fields {
+                  slug
+                }
+                frontmatter {
+                  title
+                }
+              }
+            }
+          }
+        }
+      `}
+      render={data => {
+        const { siteTitle, socialMediaCard, googleTrackingId } =
+            data.settingsYaml || {},
+          subNav = {
+            posts: data.allPosts.hasOwnProperty('edges')
+              ? data.allPosts.edges.map(post => {
+                  return { ...post.node.fields, ...post.node.frontmatter }
+                })
+              : false
+          }
 
-      <ThemeProvider theme={theme}>
-        <>
-          <div className="siteContent">
-            <Menu />
-            {children}
-          </div>
-          <Footer />
-        </>
-      </ThemeProvider>
-      <GlobalStyle />
-    </div>
+        return (
+          <Fragment>
+            <Helmet
+              defaultTitle={siteTitle}
+              titleTemplate={`%s | ${siteTitle}`}
+            >
+              {title}
+              <link href="https://ucarecdn.com" rel="preconnect" crossorigin />
+              <link rel="dns-prefetch" href="https://ucarecdn.com" />
+              {/* Add font link tags here */}
+            </Helmet>
+
+            <Meta
+              googleTrackingId={googleTrackingId}
+              absoluteImageUrl={
+                socialMediaCard &&
+                socialMediaCard.image &&
+                socialMediaCard.image
+              }
+              {...meta}
+              {...data.settingsYaml}
+            />
+
+            <GithubCorner url="https://github.com/thriveweb/yellowcake" />
+
+            <Nav subNav={subNav} />
+
+            <Fragment>{children}</Fragment>
+
+            <Footer />
+          </Fragment>
+        )
+      }}
+    />
   )
 }
-
-export default Template

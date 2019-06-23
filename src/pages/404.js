@@ -1,34 +1,40 @@
 import React from 'react'
-import { Link } from 'gatsby'
-import styled from 'styled-components'
 import Helmet from 'react-helmet'
-import PageTitle from '../components/PageTitle'
-import Container from '../components/Container'
+import { Link, StaticQuery, graphql } from 'gatsby'
+import _get from 'lodash/get'
+import AlertTriangle from 'react-feather/dist/icons/alert-triangle'
+
 import Layout from '../components/Layout'
 
-const Text = styled.p`
-  text-align: center;
-  line-height: 1.6;
-  a {
-    color: #121212;
-  }
-`
-
-const NotFoundPage = () => (
-  <Layout>
-    <Helmet>
-      <title>404 - Page Not Found</title>
-      <meta name="description" content="Page not found" />
-    </Helmet>
-
-    <Container>
-      <PageTitle>Page Not Found</PageTitle>
-      <Text>
-        Please return <Link to="/">home</Link> or use the menu to navigate to a
-        different page.
-      </Text>
-    </Container>
-  </Layout>
+export default ({ children }) => (
+  <StaticQuery
+    query={graphql`
+      query NotFoundPageQuery {
+        globalSettings: settingsYaml {
+          siteTitle
+        }
+      }
+    `}
+    render={data => (
+      <Layout>
+        <Helmet>
+          <title>404 – Page Not Found</title>
+        </Helmet>
+        <section className="section thick">
+          <div className="container skinny taCenter">
+            <p>
+              <AlertTriangle size="5rem" />
+            </p>
+            <h1>404 - Page Not Found</h1>
+            <p>
+              We can't find the page you are looking for!
+              <br />
+              Head back to{' '}
+              <Link to="/">{_get(data, 'globalSettings.siteTitle')}</Link>
+            </p>
+          </div>
+        </section>
+      </Layout>
+    )}
+  />
 )
-
-export default NotFoundPage
