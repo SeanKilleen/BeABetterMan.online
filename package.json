@@ -63,5 +63,6 @@
     "del-cli": "^1.1.0",
     "prettier": "^1.18.2",
     "rimraf": "^2.6.3"
-  }
+  },
+  "browserslist": "> 0.5%, last 2 versions, ie 11"
 }
