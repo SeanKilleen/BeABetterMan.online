@@ -4,16 +4,18 @@ slug: contact
 title: Contact Page
 featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
 subtitle: Drop us a line.
-#address: '001 Info Hwy, USA'
-#phone: 0987 123 456
-#email: example@example.com
-# locations:
-#   - lat: '-27.9654732'
-#     lng: '153.2432449'
-#     mapLink: ''
 meta:
   description: This is a meta description.
   title: Contact Page
+
+# TODO Remove these template currently breaks without them
+address: '001 Info Hwy, USA' 
+phone: 012 345 6789
+email: example@example.com
+locations:
+  - lat: '-27.9654732'
+    lng: '153.2432449'
+    mapLink: ''
 ---
 
 # We want to hear from you.
