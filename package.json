@@ -61,6 +61,7 @@
   },
   "devDependencies": {
     "del-cli": "^1.1.0",
-    "prettier": "^1.16.1"
+    "prettier": "^1.16.1",
+    "rimraf": "^2.6.3"
   }
 }
