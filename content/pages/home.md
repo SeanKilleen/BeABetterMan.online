@@ -6,7 +6,7 @@ featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
 subtitle: 'Making it easier to treat others better on the world wide web.'
 meta:
   description: This is a meta description.
-  title: "Be a Better Man Online | Men educating men on behaving better."
+  title: "Home"
 ---
 BeABetterMan.online is a web site created by a guy on the internet who was tired of seeing guys be jerks to women and LGTBTQ folks on the internet.
 
