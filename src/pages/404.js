@@ -1,14 +1,40 @@
-import React from "react"
+import React from 'react'
+import Helmet from 'react-helmet'
+import { Link, StaticQuery, graphql } from 'gatsby'
+import _get from 'lodash/get'
+import AlertTriangle from 'react-feather/dist/icons/alert-triangle'
 
-import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Layout from '../components/Layout'
 
-const NotFoundPage = () => (
-  <Layout>
-    <SEO title="404: Not found" />
-    <h1>NOT FOUND</h1>
-    <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
-  </Layout>
+export default ({ children }) => (
+  <StaticQuery
+    query={graphql`
+      query NotFoundPageQuery {
+        globalSettings: settingsYaml {
+          siteTitle
+        }
+      }
+    `}
+    render={data => (
+      <Layout>
+        <Helmet>
+          <title>404 – Page Not Found</title>
+        </Helmet>
+        <section className="section thick">
+          <div className="container skinny taCenter">
+            <p>
+              <AlertTriangle size="5rem" />
+            </p>
+            <h1>404 - Page Not Found</h1>
+            <p>
+              We can't find the page you are looking for!
+              <br />
+              Head back to{' '}
+              <Link to="/">{_get(data, 'globalSettings.siteTitle')}</Link>
+            </p>
+          </div>
+        </section>
+      </Layout>
+    )}
+  />
 )
-
-export default NotFoundPage
