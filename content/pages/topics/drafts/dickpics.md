@@ -10,10 +10,12 @@ Hooboy. Really?
 
 ## Why this matters
 
-## Here's why it's harmful
+## Why it's harmful
 
-## How to change your behavior
+## Did you know this may be illegal in some cases?
 
 ## What Those on the Other End Wish you Knew
 
-## Resources on the topic
+## Recommendations for Moving Forward
+
+## Resources
