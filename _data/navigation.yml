@@ -1,12 +1,6 @@
 # main links
 main:
+  - title: "Behaviors"
+    url: /behaviors/ #TODO
   - title: "Contact"
     url: https://BeABetterManOnline/ #TODO
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
