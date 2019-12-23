@@ -7,9 +7,13 @@ layout: home
 
 # Don't be that guy!
 
-This is a site written by men, for men, offering perspectives on how to be a better man on-line.
+BeABetterMan.online is a web site created by a guy on the internet who was tired of seeing guys be jerks to women and LGBTQ folks on the internet.
 
-Our goal is to move beyond shaming to education, without placing the burden on that education of people who have been on the receiving end of less than stellar behavior on the web.
+The goal of this web site is to move beyond shaming to education, without placing the burden of that education on people who have been on the receiving end of less than stellar behavior on the web. We want to help people realize harmful behaviors in a non-judgmental setting, providing links and material in the hopes that someone might put these words to use and improve their behavior.
+
+It was inspired by a quote seen in passing:
+
+> "I can't advocate if I refuse to help educate."
 
 Have you been forwarded to this site by someone you've communicated with? We hope you'll take a breath and check out some information here briefly before moving on.
 
