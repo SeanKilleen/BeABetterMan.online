@@ -19,6 +19,8 @@ People often read flirtiness into any situation where women aren't completing em
 * Know that you are wading into not great territory and that the person you're seeking to know better may be put off by your advances.
 * If you rarely interact with this person, know that building a rapport on-line is likely an important first step. Don't *start* in the DMs; *slide into* the DMs.
 
+With that said, here's a quick summary written by someone who was attracted to someone who had a professional Twitter presence and was able to not only connect to that person, but marry them!
+
 <figure>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">How you snag your twitter crush <a href="https://t.co/N2BQL3oYza">https://t.co/N2BQL3oYza</a></p>&mdash; Katelyn Bowden (@BadassBowden) <a href="https://twitter.com/BadassBowden/status/1208958585272750080?ref_src=twsrc%5Etfw">December 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </figure>
