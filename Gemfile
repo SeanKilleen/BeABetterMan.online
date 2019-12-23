@@ -9,4 +9,4 @@ gem "jekyll-include-cache", "~> 0.1"
 
 gem "bundler"
 gem "rake", "~> 10.0"
-gem "minimal-mistakes-jekyll"
+gem "github-pages", group: :jekyll_plugins

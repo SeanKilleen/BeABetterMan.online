@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
+title: "Don't be that guy!"
 ---
-
-# Don't be that guy!
 
 This is a web site created by a guy on the internet who was tired of seeing guys behave badly toward women and LGBTQ folks on the internet.
 
