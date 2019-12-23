@@ -1,6 +1,3 @@
 [build]
-  publish = "public/"
-  command = "gatsby build"
-[build.environment]
-  YARN_VERSION = "1.3.2"
-  YARN_FLAGS = "--no-ignore-optional"
+  publish = "site/"
+  command = "bundle exec jekyll build"
