@@ -7,7 +7,7 @@ layout: home
 
 # Don't be that guy!
 
-BeABetterMan.online is a web site created by a guy on the internet who was tired of seeing guys be jerks to women and LGBTQ folks on the internet.
+This is a web site created by a guy on the internet who was tired of seeing guys behave badly toward women and LGBTQ folks on the internet.
 
 The goal of this web site is to move beyond shaming to education, without placing the burden of that education on people who have been on the receiving end of less than stellar behavior on the web. We want to help people realize harmful behaviors in a non-judgmental setting, providing links and material in the hopes that someone might put these words to use and improve their behavior.
 
