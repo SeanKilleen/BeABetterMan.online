@@ -1,4 +1,7 @@
 ---
 layout: single
-title: "Social Media Isn't a Dating Site"
 ---
+
+#### Problematic Behaviors
+
+# Social Media Isn't a Dating Site
