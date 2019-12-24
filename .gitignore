@@ -1,9 +1,16 @@
-# Project dependencies
-# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
-node_modules
-.cache/
-# Build directory
-public/
-static/admin/*.bundle.*
+*.gem
+*.sublime-project
+*.sublime-workspace
+.bundle
 .DS_Store
-yarn-error.log
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+_asset_bundler_cache
+_site
+codekit-config.json
+example/_site
+Gemfile.lock
+node_modules
+npm-debug.log*
+vendor/bundle
