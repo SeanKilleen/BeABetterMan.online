@@ -18,6 +18,6 @@ Not cool. Knock it off. It's not received well.
 
 ## Further Reading
 
-* <https://en.wikipedia.org/wiki/I_Look_Like_an_Engineer>
-* <https://developer.ibm.com/dwblog/2016/youre-too-pretty-to-be-a-developer/>
-* <https://www.dailymail.co.uk/news/article-3187011/Female-software-engineer-slammed-pretty-not-real-fights-campaign-prove-nerds-attractive-too.html>
+* [I Look Like an Engineer](https://en.wikipedia.org/wiki/I_Look_Like_an_Engineer) [[Wikipedia]](https://en.wikipedia.org/)
+* [You're too pretty to be a developer](https://developer.ibm.com/dwblog/2016/youre-too-pretty-to-be-a-developer/) [[IBM Developer Blog]](https://developer.ibm.com)
+* [Female software engineer slammed for being 'too pretty' and 'not real' fights back with online campaign proving nerds can be attractive too](https://www.dailymail.co.uk/news/article-3187011/Female-software-engineer-slammed-pretty-not-real-fights-campaign-prove-nerds-attractive-too.html) [[Daily Mail]](https://www.dailymail.co.uk)
