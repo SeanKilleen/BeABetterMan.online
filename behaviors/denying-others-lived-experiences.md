@@ -10,7 +10,7 @@ Oftentimes, when a member of a marginalized group reports a certain experience (
 But when thinking about false stories, consider for example, the subject of a terrible crime -- rape.
 
 * In the case of a crime like rape, false accusations [are thought to range between roughly 2-6% of reported crimes](https://en.wikipedia.org/wiki/False_accusation_of_rape#cite_note-VAW-1). So even allowing for the fact that false accusations could exist, it is a comparatively small number.
-* These false reports are often higher because police sometimes log crimes where no provable corroborating evidence was found as `no crime` or `not logged` due to systemic limitations, even if those officials were not saying no crime occurred. So even this small number may be skewed higher.
+* These false reports are often higher because police sometimes log crimes where no provable corroborating evidence was found as `no crime` or `unfounded` due to systemic limitations, even if those officials were not saying no crime occurred. So even this small number may be skewed higher.
 * Coming forward to share a lived experience often results in opening someone up to all sorts of questioning, including lines of questioning that may have caused someone to link you to this page. It is rarely a celebrated moment, and any "positive" effects from sharing such a story are usually outweighed by the difficult after-effects of sharing the experience.
 
 So it is important to consider that someone who is questioning a lived experience is considering the above, and still choosing to question or invalidate someone's experience. This could be a strong indicator that someone is not responding in good faith.
