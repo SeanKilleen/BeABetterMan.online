@@ -21,7 +21,7 @@ When we hear that something horrible has happened to someone, it may make us unc
 
 This feeling may be heightened if the perpetrator or "bad guy" in the story shares your characteristics. For example, if a white, cis-gendered man hears about an experience where another white, cis-gendered man behaved badly, it can increase the discomfort of taking in that experience.
 
-However, the key in this situation is to ensure that your discomfort doesn't translate into questioning that person's experience.
+However, the key in this situation is to ensure that your discomfort doesn't translate into questioning that person's experience. Just because you wish it should not have happened, does not mean that there is a likelihood it didn't happen.
 
 ## Other Links / References
 
