@@ -1,0 +1,17 @@
+---
+layout: single
+---
+
+{{content}}
+
+<h2>Have something to add?</h2>
+
+Edit to suggest? More information / links? Let us know!
+
+<form name="behavior-feedback" netlify>
+    <input type="hidden" name="behavior-title" value="{{page.title}}"/>
+    <p><label>Your Thoughts<textarea name="suggestion"></textarea></label></p>
+    <p><label>Contact info (for credit or follow-up)<textarea name="contactinfo"></textarea></label></p>
+    <p><label>Would you like a follow-up?<input type="checkbox" name="followuprequested"></input></label></p>
+    <p><button type="submit">Submit</button></p>
+</form>
