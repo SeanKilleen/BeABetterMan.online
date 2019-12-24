@@ -14,9 +14,9 @@ If someone's social media account is primarily professional / technical, chances
 
 People often read flirtiness into any situation where women aren't completing emotionless. Check your instincts; they're probably wrong.
 
-### Q: I have a crush on someone who is a professional on Twitter. How should I act?
+### Q: But I really have a crush on someone who is a professional on Twitter. How should I act?
 
-* Know that you are wading into not great territory and that the person you're seeking to know better may be put off by your advances.
+* Know that you are wading into not great territory and that the person you're seeking to know better may be put off further by your advances. In many cases, you will almost certainly be far from the first person to attempt this. This does not mean that you should necessarily try _harder_ or _differently_; it means this person may be wary of advances in general (and for good reason; see the rest of this site.)
 * If you rarely interact with this person, know that building a rapport on-line is likely an important first step. Don't *start* in the DMs; *slide into* the DMs, after you've built up rapport and trust and transparency.
 
 With that said, here's a quick summary written by someone who was attracted to someone who had a professional Twitter presence and was able to not only connect to that person, but marry them!
