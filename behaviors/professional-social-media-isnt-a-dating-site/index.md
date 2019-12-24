@@ -27,4 +27,4 @@ With that said, here's a quick summary written by someone who was attracted to s
 
 ### Additional Links / Reading
 
-TODO.
+Check back soon for additional resources.
