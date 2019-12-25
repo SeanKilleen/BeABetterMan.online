@@ -19,7 +19,7 @@ But consider:
 * There is still a pay gap of ~29% for women in the U.S. tech industry.
 * The industry as a whole is not known for having policies that allow women to stay in the workforce, such as competitive child care or maternity leave policies.
 
-## It's not just the system. It's also about personal experience.
+## It's not just the system; it's also about personal experience
 
 But beyond these systemic concerns -- which are real -- if you follow any of the many well-known, trusted women in tech[^2], you will eventually hear a story (or many) about:
 
