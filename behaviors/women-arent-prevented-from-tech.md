@@ -35,7 +35,7 @@ If that happened to many people, they'd leave. So it's no surprise that women of
 ## Further Reading
 
 * [The State of Women in Tech 2019 (DreamHost)](https://www.dreamhost.com/blog/state-of-women-in-tech/)
-* [The Tech Industry's Gender-Descrimination Problem (New Yorker)](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem)
+* [The Tech Industry's Gender-Discrimination Problem (New Yorker)](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem)
 * [Women in Tech: The Facts (2016; PDF)](https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf)
 * [Gender Pay Gap in the United States Tech Industry (Wikipedia)](https://en.wikipedia.org/wiki/Gender_pay_gap_in_the_United_States_tech_industry)
 * [Why is Silicon Valley so awful to women? (The Atlantic)](https://www.theatlantic.com/magazine/archive/2017/04/why-is-silicon-valley-so-awful-to-women/517788/)
