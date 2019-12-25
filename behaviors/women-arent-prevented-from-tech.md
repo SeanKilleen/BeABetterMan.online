@@ -39,6 +39,7 @@ If that happened to many people, they'd leave. So it's no surprise that women of
 * [Women in Tech: The Facts (2016; PDF)](https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf)
 * [Gender Pay Gap in the United States Tech Industry (Wikipedia)](https://en.wikipedia.org/wiki/Gender_pay_gap_in_the_United_States_tech_industry)
 * [Why is Silicon Valley so awful to women? (The Atlantic)](https://www.theatlantic.com/magazine/archive/2017/04/why-is-silicon-valley-so-awful-to-women/517788/)
+* [Sexism in the Technology Industry (Wikipedia)](https://en.wikipedia.org/wiki/Sexism_in_the_technology_industry)
 
 [^1]: {% include _cisdisclaimer.html %}
 [^2]: If you're not seeing evidence and hearing this information on a regular basis, I recommend following more high profile women in this space. If you might find one or two stories incredulous, I promise you will become very aware when you hear these stories from a wide, varied swath of the industry. If you want a rough gender breakdown of accounts you follow on Twitter, check out [Proporti.onl](https://www.proporti.onl/).
