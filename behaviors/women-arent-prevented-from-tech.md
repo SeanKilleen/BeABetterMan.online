@@ -17,6 +17,20 @@ But consider:
 * Programming and technology work then began to drive more of the world and economy.
 * Suddenly, the rate of women in the industry began to go down as men entered the industry once more.
 * There is still a pay gap of ~29% for women in the U.S. tech industry.
+* The industry as a whole is not known for having policies that allow women to stay in the workforce, such as competitive child care or maternity leave policies.
+
+## It's not just the system. It's also about personal experience.
+
+But beyond these systemic concerns -- which are real -- if you follow any of the many well-known, trusted women in tech[^2], you will eventually hear a story (or many) about:
+
+* sexual harassment in a professional setting
+* overt sexism
+* being drowned out or ignored in meetings
+* having credit stolen for ideas
+* being passed over for promotions
+* having expertise continually devalued
+
+If that happened to many people, they'd leave. So it's no surprise that women often look for careers elsehwere.
 
 ## Further Reading
 
@@ -27,3 +41,4 @@ But consider:
 * [Why is Silicon Valley so awful to women? (The Atlantic)](https://www.theatlantic.com/magazine/archive/2017/04/why-is-silicon-valley-so-awful-to-women/517788/)
 
 [^1]: {% include _cisdisclaimer.html %}
+[^2]: If you're not seeing evidence and hearing this information on a regular basis, I recommend following more high profile women in this space. If you might find one or two stories incredulous, I promise you will become very aware when you hear these stories from a wide, varied swath of the industry. If you want a rough gender breakdown of accounts you follow on Twitter, check out [Proporti.onl](https://www.proporti.onl/).
