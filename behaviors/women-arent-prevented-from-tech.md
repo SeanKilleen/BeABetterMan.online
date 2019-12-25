@@ -30,7 +30,7 @@ But beyond these systemic concerns -- which are real -- if you follow any of the
 * being passed over for promotions
 * having expertise continually devalued
 
-If that happened to many people, they'd leave. So it's no surprise that women often look for careers elsehwere.
+If that happened to many people, they'd leave. So it's no surprise that women often look for careers elsewhere.
 
 ## Further Reading
 
