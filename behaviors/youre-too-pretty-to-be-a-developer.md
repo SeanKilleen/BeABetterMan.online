@@ -1,6 +1,6 @@
 ---
 layout: problematic-behavior
-title: "You're too pretty to be a Developer!"
+title: \"You're too pretty to be a Developer!\"
 ---
 
 Hoo-boy. Let's unpack this backwards compliment a bit.
