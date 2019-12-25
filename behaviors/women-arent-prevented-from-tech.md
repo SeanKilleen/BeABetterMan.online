@@ -16,10 +16,14 @@ But consider:
 * Programming and technology work was originally considered "women's work", which men would avoid.
 * Programming and technology work then began to drive more of the world and economy.
 * Suddenly, the rate of women in the industry began to go down as men entered the industry once more.
+* There is still a pay gap of ~29% for women in the U.S. tech industry.
 
 ## Further Reading
 
+* [The State of Women in Tech 2019 (DreamHost)](https://www.dreamhost.com/blog/state-of-women-in-tech/)
 * [The Tech Industry's Gender-Descrimination Problem (New Yorker)](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem)
 * [Women in Tech: The Facts (2016; PDF)](https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf)
+* [Gender Pay Gap in the United States Tech Industry (Wikipedia)](https://en.wikipedia.org/wiki/Gender_pay_gap_in_the_United_States_tech_industry)
+* [Why is Silicon Valley so awful to women? (The Atlantic)](https://www.theatlantic.com/magazine/archive/2017/04/why-is-silicon-valley-so-awful-to-women/517788/)
 
 [^1]: {% include _cisdisclaimer.html %}
