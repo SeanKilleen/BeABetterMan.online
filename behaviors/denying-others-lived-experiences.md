@@ -19,10 +19,12 @@ So it is important to consider that someone who is questioning a lived experienc
 
 When we hear that something horrible has happened to someone, it may make us uncomfortable to consider a world in which that experience took place, and to want to push the idea of that world further from our consciousness. This is a reasonable human instinct and a way that many might choose to cope with hearing about traumatic events.
 
-This feeling may be heightened if the perpetrator or "bad guy" in the story shares your characteristics. For example, if a white, cis-gendered man hears about an experience where another white, cis-gendered man behaved badly, it can increase the discomfort of taking in that experience.
+This feeling may be heightened if the perpetrator or "bad guy" in the story shares your characteristics. For example, if a white, cisgender[^1] man hears about an experience where another white, cis man behaved badly, it can increase the discomfort of taking in that experience.
 
 However, the key in this situation is to ensure that your discomfort doesn't translate into questioning that person's experience. Just because you wish it should not have happened, does not mean that there is a likelihood it didn't happen.
 
 ## Other Links / References
 
 * [Believe Women - Wikipedia](https://en.wikipedia.org/wiki/Believe_women)
+
+[^1]: {% include _cisdisclaimer.html %}
