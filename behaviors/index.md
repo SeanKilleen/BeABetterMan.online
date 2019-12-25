@@ -7,4 +7,5 @@ Don't see it listed here? Feel free to [submit it](/suggest-a-problematic-behavi
 
 * [Denying or doubting others' lived experiences.](denying-others-lived-experiences/)
 * [Professional social media isn't a dating site.](professional-social-media-isnt-a-dating-site/)
+* ["Women aren't prevented from working in tech."](women-arent-prevented-from-tech/)
 * ["You're too pretty to be a developer."](youre-too-pretty-to-be-a-developer/)
