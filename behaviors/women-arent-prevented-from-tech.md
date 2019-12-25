@@ -21,7 +21,7 @@ But consider:
 
 ## It's not just the system; it's also about personal experience
 
-But beyond these systemic concerns -- which are real -- if you follow any of the many well-known, trusted women in tech[^2], you will eventually hear a story (or many) about:
+But beyond the above systemic concerns -- which are real -- if you follow any of the many well-known, trusted women in tech[^2], you will eventually hear a story (or many) about:
 
 * sexual harassment in a professional setting
 * overt sexism
@@ -31,6 +31,12 @@ But beyond these systemic concerns -- which are real -- if you follow any of the
 * having expertise continually devalued
 
 If that happened to many people, they'd leave. So it's no surprise that women often look for careers elsewhere.
+
+## Blaming the Victim
+
+Suggesting that women aren't able to keep up in the industry, or that the industry is somehow a neutral place, is not only willfully ignorant -- it places the blame/burden on women to overcome the systemic barriers that are in place. It blatantly states that you either refuse to believe the experiences of women in the industry, or that you believe this burden is somehow their fault despite all the evidence to the contrary.
+
+By spouting things like this, you make it clear that you're dedicated to being a part of the problem rather than the solution.
 
 ## Further Reading
 
