@@ -67,7 +67,7 @@ So if you feel that someone isn't fully engaged with you in conversation, and yo
 
 ## Related Links
 
-* [mansplaining explained in one chart (BBC Worklife)](https://www.bbc.com/worklife/article/20180727-mansplaining-explained-in-one-chart)
-* [mansplaining Flowchart By Elle Armageddon Isn't Actually About mansplaining, But Still Perfectly Explains It Anyway (Bustle)][BustleArticle]
+* [Mansplaining explained in one chart (BBC Worklife)](https://www.bbc.com/worklife/article/20180727-mansplaining-explained-in-one-chart)
+* [Mansplaining Flowchart By Elle Armageddon Isn't Actually About Mansplaining, But Still Perfectly Explains It Anyway (Bustle)][BustleArticle]
 
 [BustleArticle]: https://www.bustle.com/articles/110557-mansplaining-flowchart-by-elle-armageddon-isnt-actually-about-mansplaining-but-still-perfectly-explains-it-anyway
