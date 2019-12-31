@@ -26,7 +26,7 @@ Mansplaining is just sharing knowledge and trying to make a human connection, ri
 
 ## Why Does mansplaining Happen?
 
-Long-standing (and harmful) societal normal often pressure men to have all of the answers -- and to be confident in how they express those answers. We are inundated with media that tell us this is the way to be perceived as knowledgeable, or even to be perceived as attractive. We are not encouraged to seek consensus, and are often imbued with the idea that our voice is the most important voice in the room.
+Long-standing (and harmful) societal norms often pressure men to have all of the answers -- and to be confident in how they express those answers. We are inundated with media that tell us this is the way to be perceived as knowledgeable, or even to be perceived as attractive. We are not encouraged to seek consensus, and are often imbued with the idea that our voice is the most important voice in the room.
 
 So, when men have an opinion to offer, we often:
 
