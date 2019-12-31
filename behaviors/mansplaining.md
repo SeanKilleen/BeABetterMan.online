@@ -49,7 +49,7 @@ This can actually become a safety issue or make things much worse for women. Rej
 
 If someone doesn't respect one's time or space, it's also quite possible they will not respect someone's boundaries or safety.
 
-So if you feel that someone isn't fully engaged with you in conversation, and you've been explaining something or going on for a bit, consider that they may just be tolerating you because of an instinct that says they might have to. This represents an opportunity to make the conversation and everyone's day better by curbing this behavio in the moment.
+So if you feel that someone isn't fully engaged with you in conversation, and you've been explaining something or going on for a bit, consider that they may just be tolerating you because of an instinct that says they might have to. This represents an opportunity to make the conversation and everyone's day better by curbing this behavior in the moment.
 
 ## How do I know if I'm mansplaining?
 
