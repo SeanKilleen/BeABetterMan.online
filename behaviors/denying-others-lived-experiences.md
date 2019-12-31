@@ -15,7 +15,7 @@ But when thinking about false stories, consider for example, the subject of a te
 
 So it is important to consider that someone who is questioning a lived experience is considering the above, and still choosing to question or invalidate someone's experience. This could be a strong indicator that someone is not responding in good faith.
 
-## It might be uncomfortable -- and that should be OK
+## Get Comfortable with Being Uncomfortable
 
 When we hear that something horrible has happened to someone, it may make us uncomfortable to consider a world in which that experience took place, and to want to push the idea of that world further from our consciousness. This is a reasonable human instinct and a way that many might choose to cope with hearing about traumatic events.
 
