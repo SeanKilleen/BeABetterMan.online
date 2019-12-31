@@ -15,6 +15,20 @@ But when thinking about false stories, consider for example, the subject of a te
 
 So it is important to consider that someone who is questioning a lived experience is considering the above, and still choosing to question or invalidate someone's experience. This could be a strong indicator that someone is not responding in good faith.
 
+## Whataboutisms
+
+"Yeah, but what about this one time someone lied about an accusation?" "What about this one time an innocent person's life was ruined?"
+
+This is a form of whataboutism. [From Wikipedia](https://en.wikipedia.org/wiki/Whataboutism):
+
+> Whataboutism, also known as whataboutery, is a variant of the tu quoque logical fallacy that attempts to discredit an opponent's position by charging them with hypocrisy without directly refuting or disproving their argument. It is particularly associated with Soviet and Russian propaganda.
+
+Let's think a bit about what this response says:
+
+* It rejects or devalues the experience of the vast majority of people who've experienced traumatic or painful events.
+* It usually de-rails a conversation that is happening, as people now feel the need to confront this absurd statement rather than continue their discussion.
+* It is clearly not a good faith approach; a point is not invalid just because every single data point does not line up in its favor.
+
 ## Get Comfortable with Being Uncomfortable
 
 When we hear that something horrible has happened to someone, it may make us uncomfortable to consider a world in which that experience took place, and to want to push the idea of that world further from our consciousness. This is a reasonable human instinct and a way that many might choose to cope with hearing about traumatic events.
