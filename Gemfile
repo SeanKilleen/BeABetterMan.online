@@ -8,5 +8,5 @@ gem "jekyll-feed", "~> 0.1"
 gem "jekyll-include-cache", "~> 0.1"
 
 gem "bundler"
-gem "rake", "~> 10.0"
+gem "rake", "~> 12.3"
 gem "github-pages", group: :jekyll_plugins
